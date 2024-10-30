@@ -7,7 +7,7 @@
 </template>
 <script>
 import ContactForm from "@/components/ContactForm.vue";
-import ContactService from "@/services/contact.service";
+import ContactService from "@/service/contact.service";
 export default {
     components: {
         ContactForm,
